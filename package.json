@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "hexo": "^7.3.0",
-    "hexo-deployer-git": "^4.0.0"
+    "hexo-deployer-git": "^4.0.0",
+    "hexo-next-valine": "github:next-theme/hexo-next-valine"
   }
 }
