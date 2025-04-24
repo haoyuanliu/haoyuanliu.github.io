@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LHY-PAPER</title>
+  
+  <subtitle>读书写字的地方</subtitle>
+  <link href="http://haoyuanliu.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://haoyuanliu.github.io/"/>
+  <updated>2025-04-24T16:05:23.940Z</updated>
+  <id>http://haoyuanliu.github.io/</id>
+  
+  <author>
+    <name>haoyuanliu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【隐私保护】Differentially Private Decoupled Graph Convolutions for Multigranular Topology Protection</title>
+    <link href="http://haoyuanliu.github.io/2025/04/24/%E3%80%90%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E3%80%91Differentially-Private-Decoupled-Graph-Convolutions-for-Multigranular-Topology-Protection/"/>
+    <id>http://haoyuanliu.github.io/2025/04/24/%E3%80%90%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E3%80%91Differentially-Private-Decoupled-Graph-Convolutions-for-Multigranular-Topology-Protection/</id>
+    <published>2025-04-24T15:15:40.000Z</published>
+    <updated>2025-04-24T16:05:23.940Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="论文情况"><a href="#论文情况" class="headerlink" title="论文情况"></a>论文情况</h2><p>本篇文章的链接：<a href="https://arxiv.org/abs/2307.06422">地址</a>。</p><h2 id="主要问题"><a href="#主要问题" class="headerlink" title="主要问题"></a>主要问题</h2><h3 id="隐私保护的对象"><a href="#隐私保护的对象" class="headerlink" title="隐私保护的对象"></a>隐私保护的对象</h3><p>GNN图神经网络。本文提出了Graph Differential Privacy（GDP）分析框架，在此基础上提出了Differentially Private Decoupled Graph Convolution(DPDGC)设计。</p><h3 id="隐私问题定义"><a href="#隐私问题定义" class="headerlink" title="隐私问题定义"></a>隐私问题定义</h3><p>图神经网络中的节点属性和节点之间的交互。节点属性可能包含用户个人的身份、联系方式等信息，节点之间的交互可能包括用户之间的关系、共同感兴趣的事物、共同购买的商品。</p><h3 id="隐私数据来源"><a href="#隐私数据来源" class="headerlink" title="隐私数据来源"></a>隐私数据来源</h3><h3 id="隐私保护的核心方法"><a href="#隐私保护的核心方法" class="headerlink" title="隐私保护的核心方法"></a>隐私保护的核心方法</h3><h3 id="隐私保护方法的阶段"><a href="#隐私保护方法的阶段" class="headerlink" title="隐私保护方法的阶段"></a>隐私保护方法的阶段</h3><h3 id="评价指标和对比结果"><a href="#评价指标和对比结果" class="headerlink" title="评价指标和对比结果"></a>评价指标和对比结果</h3><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><h2 id="TODO-LIST"><a href="#TODO-LIST" class="headerlink" title="TODO LIST"></a>TODO LIST</h2><ul class="fa-ul">  <li><i class="fa-li fa fa-check-square-o"></i>学习了解一下图神经网络GNN</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;论文情况&quot;&gt;&lt;a href=&quot;#论文情况&quot; class=&quot;headerlink&quot; title=&quot;论文情况&quot;&gt;&lt;/a&gt;论文情况&lt;/h2&gt;&lt;p&gt;本篇文章的链接：&lt;a href=&quot;https://arxiv.org/abs/2307.06422&quot;&gt;地址&lt;/a&gt;。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    <category term="科研" scheme="http://haoyuanliu.github.io/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="隐私保护" scheme="http://haoyuanliu.github.io/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/"/>
+    
+    <category term="差分" scheme="http://haoyuanliu.github.io/tags/%E5%B7%AE%E5%88%86/"/>
+    
+    <category term="GNN" scheme="http://haoyuanliu.github.io/tags/GNN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从这里开始！</title>
+    <link href="http://haoyuanliu.github.io/2025/04/21/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%81/"/>
+    <id>http://haoyuanliu.github.io/2025/04/21/%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%81/</id>
+    <published>2025-04-21T14:54:37.000Z</published>
+    <updated>2025-04-24T15:10:54.874Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="每天一篇论文！"><a href="#每天一篇论文！" class="headerlink" title="每天一篇论文！"></a>每天一篇论文！</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;每天一篇论文！&quot;&gt;&lt;a href=&quot;#每天一篇论文！&quot; class=&quot;headerlink&quot; title=&quot;每天一篇论文！&quot;&gt;&lt;/a&gt;每天一篇论文！&lt;/h3&gt;</summary>
+      
+    
+    
+    
+    <category term="科研" scheme="http://haoyuanliu.github.io/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="论文" scheme="http://haoyuanliu.github.io/tags/%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="flag" scheme="http://haoyuanliu.github.io/tags/flag/"/>
+    
+    <category term="努力" scheme="http://haoyuanliu.github.io/tags/%E5%8A%AA%E5%8A%9B/"/>
+    
+  </entry>
+  
+</feed>
